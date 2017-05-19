@@ -40,5 +40,9 @@ Pour les dernières phases:
 * localisation (qui n'a pas marché, au final)
 * stress + programmation de la fonction du labyrinthe en 1/2h
 
+## A propos du code
+A noter que des fonctions ont été renommées, ou bien des arguments ont été ajoutés/retirés et donc que certains fichiers (comme par exemple ceux des exercices) ne sont probablement plus à jour.
+Toutefois, le module `boree` fonctionne bien, et les fonctions font ce qu'on leur demande (à l'exception du fichier `localisation.py`).
+
 ## Liens supplémentaires
 Notre tentative d'organisation : [trello](https://trello.com/b/2sVAxXHn/asterios)
