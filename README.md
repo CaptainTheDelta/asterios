@@ -4,7 +4,8 @@ Pour faire bref, voici les mots clefs :
 * programmation
 * robot [GoPiGo](https://www.dexterindustries.com/GoPiGo)
 * concours
-![Borée](http://imgur.com/wOumMHz)
+
+![Borée](http://i.imgur.com/wOumMHz.png)
 
 ## Les épreuves
 *Note : pour les labyrinthes, le robot commence dans un coin et doit atteindre le coin opposé.*
@@ -46,5 +47,5 @@ A noter que des fonctions ont été renommées, ou bien des arguments ont été 
 Toutefois, le module `boree` fonctionne bien, et les fonctions font ce qu'on leur demande (à l'exception du fichier `localisation.py`).
 
 ## Liens supplémentaires
-Notre tentative d'organisation : [trello](https://trello.com/b/2sVAxXHn/asterios)
+Notre tentative d'organisation : [trello](https://trello.com/b/2sVAxXHn/asterios)  
 Des images de debug en vrac : [captures](http://imgur.com/a/accfn)
