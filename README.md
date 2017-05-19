@@ -4,6 +4,7 @@ Pour faire bref, voici les mots clefs :
 * programmation
 * robot [GoPiGo](https://www.dexterindustries.com/GoPiGo)
 * concours
+![Borée](http://imgur.com/wOumMHz)
 
 ## Les épreuves
 *Note : pour les labyrinthes, le robot commence dans un coin et doit atteindre le coin opposé.*
@@ -46,3 +47,4 @@ Toutefois, le module `boree` fonctionne bien, et les fonctions font ce qu'on leu
 
 ## Liens supplémentaires
 Notre tentative d'organisation : [trello](https://trello.com/b/2sVAxXHn/asterios)
+Des images de debug en vrac : [captures](http://imgur.com/a/accfn)
